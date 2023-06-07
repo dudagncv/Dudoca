@@ -5,10 +5,11 @@
 h1 {
     background-color:rgb(194, 20 , 20);
     text-align: center;
-}
+}    
+
 h2 {
     background-color: rgb(194, 20, 20);
-
+}
 p{
    font-size: 15px ;
 }
@@ -20,7 +21,7 @@ p{
     margin:  0  16 px ;
 }
 img {
-    width: 100px;
+    width: 250px;
     }
 
 .footter {

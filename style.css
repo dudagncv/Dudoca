@@ -3,15 +3,12 @@
     background-color:black;
 }
 h1 {
-    background-color:rgb(168, 15, 15);
+    background-color:rgb(194, 20 , 20);
     text-align: center;
 }
 h2 {
-    background-color: rgb(168, 14, 14);
-}
-. imagem{
-          width: 20x ; _
-}
+    background-color: rgb(194, 20, 20);
+
 p{
    font-size: 15px ;
 }
@@ -22,10 +19,12 @@ p{
     exibição:block in line;
     margin:  0  16 px ;
 }
-. imagem {
-    Background image: linear-gradient (#383d58);
-}
-.footter {}
+img {
+    width: 100px;
+    }
+
+.footter {
     background-color: black;
     fill:  15 px ;
     exibição:block in line;
+}

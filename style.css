@@ -1,4 +1,4 @@
-. fadinha
+.fadinha
 {
     background: black;
 }
@@ -16,8 +16,8 @@ p{
 .parágrafo1{
    font-size: 23px ;
 }
-. Colecao {
-    exibição:block in line;
+.Colecao {
+    display: block in line;
     margin:  0-color  16 px ;
     background:rgb(194, 20, 20,);
 }
@@ -26,7 +26,11 @@ img {
     }
 
 .footer {
-    background:rgb (194, 20, 20);
+    background:rgb(194, 20, 20);
     fill:  15 px ;
-    exibição:block in line;
+    display:block in line;
+}
+
+.colecao-itens {
+    background: rgb(194, 20, 20);
 }

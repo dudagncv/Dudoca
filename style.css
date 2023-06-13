@@ -1,9 +1,9 @@
 . fadinha
 {
-    background-color:black;
+    background: black;
 }
 h1 {
-    background-color:rgb(194, 20 , 20);
+    background:rgb(194, 20 , 20);
     text-align: center;
 }    
 
@@ -18,15 +18,15 @@ p{
 }
 . Colecao {
     exibição:block in line;
-    margin:  0  16 px ;
-   background-color:rgb(194, 20, 20,);
+    margin:  0-color  16 px ;
+    background:rgb(194, 20, 20,);
 }
 img {
     width: 250px;
     }
 
 .footer {
-    background-color:rgb (194, 20, 20);
+    background:rgb (194, 20, 20);
     fill:  15 px ;
     exibição:block in line;
 }

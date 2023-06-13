@@ -19,6 +19,7 @@ p{
 . Coleção {
     exibição:block in line;
     margin:  0  16 px ;
+    background-color:rgb(194, 20, 20);
 }
 img {
     width: 250px;
